@@ -2,7 +2,7 @@ fun main(){
     println("Digite a nota da primeira avaliacao: ")
     val nota1 = readLine()!!.toDouble()
 
-    println("Digite a nota da segunda avaliacao: ")
+    println("Digite a nota da segunda avaliacao: ") 
     val nota2 = readLine()!!.toDouble()
 
     println("Digite a nota da terceira avaliacao: ")

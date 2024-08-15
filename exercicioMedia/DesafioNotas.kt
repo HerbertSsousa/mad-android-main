@@ -8,7 +8,7 @@ fun main(){
     val nota1 = 8.5
     val nota2 = 7.0
     val nota3 = 9.2
-
+    
     // calcula 
     val media = (nota1 + nota2 + nota3) / 3
     val mediaFormatada = String.format("%.2f", media)
@@ -16,5 +16,6 @@ fun main(){
 
     //formatando media escolar 
     println("A media e: $media ou mediaformatada $mediaFormatada")
-
+// jjxxxsa
+println
 }
